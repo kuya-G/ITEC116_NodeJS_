@@ -1,2 +1,0 @@
-# ITEC116_NodeJS_
-ITEC116_NodeJS_Assignments
